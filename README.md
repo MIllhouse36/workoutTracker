@@ -1,7 +1,7 @@
 # Workout Tracker
 ![workout_tracker](https://user-images.githubusercontent.com/37388720/120109948-9f02f580-c139-11eb-93be-de19351fee76.png)
 
-
+[![repo](https://img.shields.io/github/repo-size/MIllhouse36/workoutTracker-)](https://github.com/MIllhouse36/workoutTracker-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description

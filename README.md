@@ -5,10 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
- 
-
-## Usage 
- 
+ Track workouts, add new workouts, and keep track of your workout routine with this workout tracker! 
 
 ## Contributing to Workout Tracker  
 To contribute to Workout Tracker, follow these steps:

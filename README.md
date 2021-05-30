@@ -1,5 +1,5 @@
 # Workout Tracker
-![]()
+![workout_tracker](https://user-images.githubusercontent.com/37388720/120109948-9f02f580-c139-11eb-93be-de19351fee76.png)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -23,6 +23,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Installations
 Make sure you download and install:
+ * [robo 3t](https://robomongo.org/download)
+ * [Mongodb](https://www.mongodb.com/try/download/community)
  * [Node.js](https://nodejs.org/en/download/)
 
 and from the command line all you will need to do is type 
@@ -32,10 +34,10 @@ npm install
 and your off to the races with your development environment for this project.
 
 ## Dependencies
-
+express, mongoose, morgan
 
 ## Project status
-
+Development of this projects has been halted with plans to covert this project into a full stack react application with user authentication.
 ## Host
 
 
